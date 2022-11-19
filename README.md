@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java,C#,Js,PHP,MySQL**
 - 
-- 💬 I have a loots of project but i have to find it
-- 
 - 📫 How to reach me **kufietajakub@gmail.com**
 
 <p align="left">
